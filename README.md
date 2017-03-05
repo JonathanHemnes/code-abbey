@@ -1,2 +1,2 @@
-# code-abbey
+# code-exercises
 repo of code exercises
