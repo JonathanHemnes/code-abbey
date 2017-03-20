@@ -10,4 +10,5 @@ for w in words:
         answers.add(w)
     except KeyError:
         wordset[w] = 1
+        
 print(' '.join(sorted(answers)))
